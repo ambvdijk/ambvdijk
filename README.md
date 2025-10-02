@@ -36,13 +36,13 @@
 - **Git** (of course 😄)
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ambvdijk&layout=compact&theme=radical)](https://github.com/ambvdijk)  
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ambvdijk&count_private=true&show_icons=true&theme=radical)](https://github.com/ambvdijk)
 
 ---
-
+-->
 ## 🚀 About Me
 - 💬 Ask me about **architecture, design patterns, and test automation**  
 - 🌱 Currently exploring **advanced code generation & Roslyn analyzers**  
